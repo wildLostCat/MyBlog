@@ -1,7 +1,8 @@
-# **CPUs: The Brains of Computers.**
-*-By Abdulrahman Osman | May 25, 2025*
-
 ---
+title: "CPUs: The Brains of Computers."
+---
+The CPU(Central Processing Unite) is the main component in any computer. It serves as the brain of the machine, computing and executing instructions to make the computer actually *work*.
+In this article I will go over some of the common terms used in CPUs and explain them briefly.
 ## Cores & Threads:
 These are terms that we hear a lot when watching benchmarks of a processor or when we look for a new laptop or PC to buy, but what do they actually mean ?
 
