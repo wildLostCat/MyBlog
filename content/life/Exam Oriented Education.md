@@ -12,3 +12,5 @@ As I became aware of this honestly sad situation, I started to notice the patter
 Some might argue that exams are measurement devices of a person's understanding of a subject, but I find that not true at all. having someone set in a room answering multiple questions about a  topic in a small time interval isn't an actual scale of their understanding but a scale of how much they are comfortable with the environment of an exam.
 
 Needless to say that this doesn't apply to all fields everywhere. Some teaching institutions use methods that prioritize students comprehension over getting them familiar with a specific testing patterns. And the methods for this vary a lot from field to field of course.
+
+[[Life]]
