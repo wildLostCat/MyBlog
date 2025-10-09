@@ -35,4 +35,4 @@ The amount of logical processors is the product of the amount of physical cores 
 [link1](https://www.cgdirector.com/cpu-cores-vs-logical-processors-threads/)
 
 
-[[Computer Science |parent node]]
+[[Tech|parent node]]
